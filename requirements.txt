@@ -1,0 +1,5 @@
+gym==0.21.0
+numpy==1.22.3
+pygame==2.1.0
+imageio==2.19.3
+pygifsicle==1.0.5
